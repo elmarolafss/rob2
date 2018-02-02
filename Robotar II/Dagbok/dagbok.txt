@@ -16,3 +16,12 @@ aukalega byrjuðum við að skoða hvernig við getum notað batterí með raspberry pi
 og virkja motor.
 
 Dagur 5:
+Áframhald á víraþræðslu á breadboardinu
+
+Dagur 6:
+Ný vandamál koma í ljós, dekk ekki nógu breið, tenging hleðslu á lest er ekki góð.
+
+Dagur 7:
+samsetning kláruð
+
+Dagur 8:
