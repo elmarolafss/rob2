@@ -1,0 +1,18 @@
+Dagur 1:
+kynning hjá kennara um áfangann og raspberry pi.
+aukalega var byrjað að vinna með raspberry pi umhverfið.
+
+Dagur 2: 
+haldið áfram var að fikta með smá verkefni í raspberry pi,
+til að venjast umhverfinu.
+
+Dagur 3:
+error 404 day not found
+
+dagur 4:
+við Sigurður hittumst fyrr í vikuni og ræddum hugmynd um lest,
+í tímanum var svo talað meira um það og hvernig við myndum vinna það verkefni.
+aukalega byrjuðum við að skoða hvernig við getum notað batterí með raspberry pi 
+og virkja motor.
+
+Dagur 5:
